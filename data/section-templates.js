@@ -215,7 +215,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
     markdown: `
 ## Authors and Acknowledgement
 
-- [@kuluruvineeth](https://www.github.com) for development and design.
+- [@AmanTrivedi1](https://www.github.com) for development and design.
 
   `,
   },
@@ -372,7 +372,7 @@ Any additional information goes here
     slug: "github-profile-intro",
     name: "Github Profile - Introduction",
     markdown: `
-# Hi, I'm Kuluru Vineeth! 👋
+# hi , I am Aman Trivedi 👋
   `,
   },
   {
